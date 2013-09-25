@@ -20,8 +20,8 @@ def detect_triangle(a,b,c):
             return "Tam giac vuong"
         else:
             return "Tam giac thuong"
-if __name__=="__main__":
-    a=float(raw_input())
-    b=float(raw_input())
-    c=float(raw_input())
-    detect_triangle(a,b,c);
+#if __name__=="__main__":
+#    a=float(raw_input())
+#    b=float(raw_input())
+#    c=float(raw_input())
+#    detect_triangle(a,b,c);
